@@ -21,15 +21,34 @@
     margin-left: 60px;
 }
 
+.logo h2 > a {
+    color: rgb(249, 245, 245);
+    text-decoration: none;
+    transition: all;
+}
+
 .header_nav ul {
     display: flex;
 }
 
 .header_nav ul > li {
    list-style: none;
+   padding: 5px;
 }
 
 .header_nav ul li > a{
     padding: 20px;
     text-decoration: none;
+    font-size: 14px;
+    color: rgb(249, 245, 245);
+}
+
+.header_nav ul li:hover {
+   border: 1px solid;
+   border-radius: 25px;
+   background-color:rgb(18, 154, 199);
+}
+
+.logo h2 > a:hover {
+    opacity: 0.8;
 }
