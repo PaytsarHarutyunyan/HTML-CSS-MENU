@@ -9,3 +9,11 @@
     background-color: rgb(34, 33, 33);
     margin: 0 auto;
 }
+
+.menu {
+    width: 1400px;
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+}
+
