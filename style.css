@@ -25,6 +25,7 @@
     color: rgb(249, 245, 245);
     text-decoration: none;
     transition: all;
+    font-family: 'Nunito Sans', sans-serif;
 }
 
 .header_nav ul {
@@ -41,6 +42,7 @@
     text-decoration: none;
     font-size: 14px;
     color: rgb(249, 245, 245);
+    font-family: 'Nunito Sans', sans-serif;
 }
 
 .header_nav ul li:hover {
