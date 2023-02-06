@@ -17,3 +17,19 @@
     justify-content: space-between;
 }
 
+.logo {
+    margin-left: 60px;
+}
+
+.header_nav ul {
+    display: flex;
+}
+
+.header_nav ul > li {
+   list-style: none;
+}
+
+.header_nav ul li > a{
+    padding: 20px;
+    text-decoration: none;
+}
